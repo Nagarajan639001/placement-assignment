@@ -1,0 +1,19 @@
+descriptive
+0	sl_No	ssc_p	hsc_p	degree_p	etest_p	mba_p	salary
+Mean	108.0	67..03395	66.33163	66.370186	72.100558	62.278186	288655.4054
+Median	108.0	67.0	65.0	66.0	71.0	62.0	265000.0
+Mode	1	62.0	63.0	65.0	60.0	56.7	300000.0
+
+From the above statement i understand the following points:
+
+In ssc_p : ssc passed 67.03395 average
+in hsc-P : hsc passed 66.33163 average
+in degree_P: passin 66.370186
+ in 3 avove class passed was above average but etest passed was 71.100558 good but
+ mba_passed was above average i.e. 62.2748186
+
+62.00 persons were same in ssc_p,63.00 persons were same in  hsc_passed,
+65.00 persons same mars in degree,60.0 persons were same marks in etest
+and 56.7 person same marks in mba_passed
+more of person salary was 300000.00.0
+.0
